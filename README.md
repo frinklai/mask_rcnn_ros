@@ -1,8 +1,8 @@
 # mask_rcnn_ros
-A mask_rcnn ros version with realsense d435i image as input.
-An independent ros package for realsense d435i RGB-D info is in [here](https://github.com/frinklai/mask_rcnn_ros/tree/master/vision)
-Some detail infomation need password to open. If you need, please email to frinklai@gmail.com
-If you like this repo, please give it a star, thank you very much!
+- A mask_rcnn ros version with realsense d435i image as input.(This repo was cloned and edit from https://github.com/matterport/Mask_RCNN)
+- An independent ros package for realsense d435i RGB-D info is in [here](https://github.com/frinklai/mask_rcnn_ros/tree/master/vision)
+- Some detail infomation need password to open. If you need, please email to frinklai@gmail.com
+- If you like this repo, please give it a star, thank you very much!
 
 # software environment 
 - ubuntu          16.04
