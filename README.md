@@ -9,10 +9,16 @@
 - ROS             kinetic
 - python          3.5
 - tensorflow-gpu  1.9.0
+- CUDA            9.2.148
+- CUDNN           7
+- NVIDIA Driver   396.82
 - numpy           1.14.5
 - Keras           2.1.6
 - scikit-image    0.15.0
 - IPython         6.4.0
+
+# GPU
+TITAN X (Pascal) / 12GB
 
 # Q&A
 If you suffer from any problem, you can read or open issues in this repo.
