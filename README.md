@@ -16,6 +16,7 @@
 - Keras           2.1.6
 - scikit-image    0.15.0
 - IPython         6.4.0
+- Pillow          6.0.0
 
 # GPU
 TITAN X (Pascal) / 12GB
